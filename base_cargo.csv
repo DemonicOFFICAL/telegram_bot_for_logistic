@@ -1,0 +1,12 @@
+id,current_location,status,delivery_time
+3801007,г.Москва,sorting,7 дней
+3801016,г.Красноярск,waiting for recipient,0 дней
+3801025,г.Саратов,sorting,6 дней
+3801034,г.Казань,waiting for recipient,0 дней
+3801043,г.Сызрань,sorting,3 дня
+3801052,г.Бийск,delivered,0 дней
+3801061,г.Курган,sorting,7 дней
+3801070,г.Иркутск,waiting for recipient,0 дней
+3801079,г.Хабаровск,sorting,8 дней
+3801088,г.Новосибирск,waiting for recipient,0 дней
+3801097,г.Курск,sorting,5 дней
